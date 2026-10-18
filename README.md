@@ -1,4 +1,4 @@
-# Ping Pong in C using SLD3 library
+# Ping Pong in C using SDL3 library
 
 ## Compile:
 ```
